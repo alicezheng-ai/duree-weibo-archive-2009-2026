@@ -1,8 +1,8 @@
 # @duree's 微博存档 2009–2026
 
-十七年，26,525 条微博的只读存档。从十六岁高三写到成为母亲。
+十七年的微博控，我从十五岁高二写到成为母亲。
 
-**阅读：** https://alicezheng-ai.github.io/duree-weibo-archive-2009-2026/
+**阅读@duree 的纯文字原创微博：** https://alicezheng-ai.github.io/duree-weibo-archive-2009-2026/
 **关注博主：** https://www.weibo.com/zhenghuiwen
 
 单个 HTML 文件，数据内嵌，打开即读。可以按年份筛选、全文搜索，首次加载后离线可用。
